@@ -35,14 +35,16 @@ Installation:
 python manage.py makemigrations
 python manage.py migrate
 
-5.Create a superuser (admin)
+5. Create a superuser (admin)
 python manage.py createsuperuser
 
-6.Run the development server
+6. Run the development server
 python manage.py runserver
 Open: http://127.0.0.1:8000/
 
----
+Author & Contact
+Made by Swathi P
+Contact: swathip200467@gmail.com
 
-Once you’re ready to deploy, you can update your README with deployment instructions.
+---
 
