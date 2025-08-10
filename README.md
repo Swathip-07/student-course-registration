@@ -43,7 +43,9 @@ python manage.py runserver
 Open: http://127.0.0.1:8000/
 
 Author & Contact
+
 Made by Swathi P
+
 Contact: swathip200467@gmail.com
 
 ---
