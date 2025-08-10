@@ -13,6 +13,16 @@ Key features implemented:
 - Admin registration for all models.
 - Basic templates and CSS in `courseinfo/templates/courseinfo` and `courseinfo/static/courseinfo`.
 
+## Tools and Technologies
+
+- **Python 3.8+** — Programming language
+- **Django 3.2** — Web framework
+- **SQLite** — Default local database for development
+- **Git** — Version control system
+- **GitHub** — Code hosting platform
+- **HTML,CSS** — Frontend styling
+
+
 Getting Started (Local Development)
 
 Prerequisites:
