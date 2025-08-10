@@ -27,7 +27,7 @@ Getting Started (Local Development)
 
 Prerequisites:
 - Python 3.8+
-- PostgreSQL (optional for local if you want to test Postgres, else SQLite is default)
+- Django==5.0.6
 
 Installation:
 1. Clone the repository:
